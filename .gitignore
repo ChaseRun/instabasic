@@ -1,3 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Desktop Shortcut
 .DS_Store
-dist
-**/*.egg-info/
+
+# Distribution / packaging
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Environments
+.env
+env/
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Unit test / coverage reports
+.cache
+.pytest_cache/
