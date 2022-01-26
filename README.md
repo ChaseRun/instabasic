@@ -1,7 +1,7 @@
 # InstaBasic
-![PyPI](https://img.shields.io/pypi/v/instabasic)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/instabasic)
-![PyPI - License](https://img.shields.io/pypi/l/instabasic)
+[![PyPI](https://img.shields.io/pypi/v/instabasic)](https://pypi.org/project/instabasic/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/instabasic)](https://github.com/ChaseRun/instabasic)
+[![PyPI - License](https://img.shields.io/pypi/l/instabasic)](https://github.com/ChaseRun/instabasic/blob/master/LICENSE)
 
 InstaBasic is an API wrapper for [Instagram's Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/). I was in the process of writing python code using the Basic Display API, and I created this package for others to use. My goal for this is to support every official Basic Display API [endpoint](https://developers.facebook.com/docs/instagram-basic-display-api/reference).
 
