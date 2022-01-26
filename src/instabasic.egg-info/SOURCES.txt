@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/instaBasic/__init__.py
+src/instaBasic/main.py
+src/instabasic.egg-info/PKG-INFO
+src/instabasic.egg-info/SOURCES.txt
+src/instabasic.egg-info/dependency_links.txt
+src/instabasic.egg-info/top_level.txt

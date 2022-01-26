@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: instabasic
+Version: 0.0.1
+Summary: A Python wrapper for the Instagram Basic Display API.
+Home-page: https://github.com/ChaseRun/instabasic
+Author: Chase Austin
+Author-email: chase7867@gmail.com
+License: MIT License
+Project-URL: Instagram Basic Display API Docs, https://developers.facebook.com/docs/instagram-basic-display-api
+Project-URL: Instagram Graph API Docs, https://developers.facebook.com/docs/instagram-api
+Keywords: Instagram,instagram,Facebook,facebook,Meta,meta,API,api,wrapper
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# instabasic
+
+
