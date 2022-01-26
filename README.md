@@ -11,12 +11,12 @@ InstaBasic is an API wrapper for [Instagram's Basic Display API](https://develop
 `pip install instabasic`
 
 ## Overview
-The Instagram Basic Display API is an HTTP-based API that apps can use to get an Instagram user’s profile, images, videos, and albums. To InstaBasic you will need to do the following:
+The Instagram Basic Display API is an HTTP-based API for apps to get an Instagram user’s profile, images, videos, and albums. To use InstaBasic you will need to do the following:
  - Create a Facebook Developer Account
- - Create a public websice with HTTPS
- - Provide Instagram users with an Auth link so they can grant you data access permissions.
+ - Create a public website
+ - Provide Instagram users with an Auth link for their you data access.
 
-Instagram's documentation includes a thorough [overview](https://developers.facebook.com/docs/instagram-basic-display-api/overview) of the API's limitations. I recommend first reviewing their [Get Started Guide](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started), it takes around 5-10 minutes to complete. Afterwords, check out InstaBasic's documentation, and you should be good to go!
+Instagram's documentation includes a thorough [overview](https://developers.facebook.com/docs/instagram-basic-display-api/overview) of the API's capabilities. If you are unfamiliar with the Basic Display API I recommend first reviewing their [Get Started Guide](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started) before looking at InstaBasic's documentation.
 
 ## Usage
 ```
