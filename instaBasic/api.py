@@ -25,7 +25,7 @@ ALBUM_IMAGE_FIELDS = "id,media_type,media_url,thumbnail_url"
 USER_FIELDS = "id,username,account_type,media_count,media"
 
 # --------------------
-#  Authorization
+#  Authorizationc
 # --------------------
 def get_auth_url(app_id, redirect_url, state=False):
     """Get an app's authorization url."""
@@ -53,7 +53,6 @@ def get_short_token(app_id, app_secret, redirect_url, auth_code):
         "code": auth_code,
     }
     resp = requests.post(url, data=payload).json()
-    print(resp)
     return resp["access_token"]
 
 
