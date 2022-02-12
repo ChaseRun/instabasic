@@ -27,11 +27,11 @@ USER_FIELDS = "id,username,account_type,media_count,media"
 # --------------------
 #  Authorization
 # --------------------
-def get_auth_url(app_id, redirect_url, state=None):
+def get_auth_url(app_id, redirect_url, state=False):
     """Get an app's authorization url."""
     state_url = ""
-    if state is not None:
-        state_url = "&state={state}"
+    if state:
+        state_url = f"&state={state}"
     return (
         f"{OAUTH_URL}/authorize"
         f"?client_id={app_id}"
