@@ -12,8 +12,6 @@ Functions:
     get_user(token, api_version, fields) -> object
     get_user_media(token, api_version, fields) -> object
 """
-
-from tkinter.messagebox import NO
 import requests
 
 # Instagram
